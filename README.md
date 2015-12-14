@@ -1,2 +1,0 @@
-# FPProgjar
-Data FP Progjar
