@@ -9,3 +9,6 @@ Un-weighted RoudRobin v.0.6 has been commited. But this version need customed ve
 
 12/22/2015
 Un-weighted RoudRobin v.0.6.5 has been commited with some routing-fixing.
+
+12/28/2015
+Weighted RoudRobin v.0.6.5 has been commited.
