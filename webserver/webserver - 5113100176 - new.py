@@ -1,5 +1,16 @@
 import threading, socket, time, sys
 
+html = """ 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PROGJAR WEBSERVER</title>
+</head>
+<body bgcolor="#E6E6FA">
+	<h1> THIS IS WEBSERVER :) </h1>
+    <p>"thanks for visiting my webserver"<br> -5113100176 </p>
+</body>
+</html>"""
 
 def get_file(nama):
 	myfile = open(nama)
